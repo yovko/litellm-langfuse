@@ -1,0 +1,9 @@
+# Environment variables
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Docker data volume overrides (if any local mounts)
+*.log
